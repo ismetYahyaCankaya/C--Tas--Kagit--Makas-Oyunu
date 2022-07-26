@@ -1,0 +1,11 @@
+C:\Users\yahya\Desktop\ödev-1\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+C:\Users\yahya\Desktop\ödev-1\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.exe
+C:\Users\yahya\Desktop\ödev-1\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.pdb
+C:\Users\yahya\Desktop\ödev-1\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.AssemblyReference.cache
+C:\Users\yahya\Desktop\ödev-1\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.SuggestedBindingRedirects.cache
+C:\Users\yahya\Desktop\ödev-1\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.tasKagirMakasForm.resources
+C:\Users\yahya\Desktop\ödev-1\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.Properties.Resources.resources
+C:\Users\yahya\Desktop\ödev-1\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.cache
+C:\Users\yahya\Desktop\ödev-1\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Desktop\ödev-1\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+C:\Users\yahya\Desktop\ödev-1\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.pdb
